@@ -43,7 +43,7 @@ profile - score board
 
 hebrew integration
 count down - play against time
-pirzes - give some "stickers" when accomplished word.
+prizes - give some "stickers" when accomplished word.
 
 speak then type - capture audio with a click and type it !
 
