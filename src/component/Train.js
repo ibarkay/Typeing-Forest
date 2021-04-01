@@ -20,7 +20,7 @@ const Train = () => {
 
 	return (
 		<div>
-			<h1>as you type you will find a secret word...</h1>
+			<h1>as you type you will find a secret word</h1>
 			<h1>{userKey}</h1>
 		</div>
 	);
