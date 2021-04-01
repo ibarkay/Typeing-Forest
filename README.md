@@ -47,4 +47,4 @@ score logic: word will get points by its length , user will get points when fini
 
 ## Usage <a name = "usage"></a>
 
-https://6065bc5d9f63fa38b737da65--forest-type.netlify.app
+https://forest-type.netlify.app
