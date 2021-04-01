@@ -8,6 +8,8 @@
 
 ## About <a name = "about"></a>
 
+![alt text](https://github.com/ibarkay/Typeing-Forest/blob/master/%D7%A6%D7%99%D7%9C%D7%95%D7%9D%20%D7%9E%D7%A1%D7%9A%202021-04-01%20%D7%91-14.53.18.png)
+
 typing game for ALL family , improve your typing skills with fun games like :
 
 flash-time: user will be present with a word for a short period of time , then he will need to type it fast as he can (time will be capture).
