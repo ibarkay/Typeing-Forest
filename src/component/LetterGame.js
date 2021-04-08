@@ -29,7 +29,7 @@ const LettersGame = ({
 			localStorage.setItem("scoreLetters", score);
 		}
 	};
-
+// iftach
 	function talk() {
 		let u = new SpeechSynthesisUtterance();
 		u.text = letter;
